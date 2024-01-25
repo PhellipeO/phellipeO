@@ -23,12 +23,10 @@ Estudando Programação
    <img align="center" alt="philzaum-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
    
    <img align="center" alt="philzaum-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-   <img align="center" alt="philzaum-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> 
+   <img align="center" alt="philzaum-GitHub" height="30" width="40" src="https://devicons.dev.br/icons?icon=Github&theme=dark"> 
 </div>
 
-
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg
-https://free-icons.github.io/free-icons/svgs/brands-github.svg
+<!--[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg]-->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PhellipeO&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
