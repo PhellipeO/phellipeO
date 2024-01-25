@@ -27,6 +27,9 @@ Estudando Programação
 </div>
 
 
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg
+https://free-icons.github.io/free-icons/svgs/brands-github.svg
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PhellipeO&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PhellipeO&theme=dark&hide_border=false)<br/>
