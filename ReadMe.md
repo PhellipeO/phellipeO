@@ -1,9 +1,21 @@
-# 💫 About Me:
-Estudando Programação
+<h1 align="center">Eaaai, me chamo Phellipe!</h1>
+<h3 align="center">🙋‍♂️ Um único objetivo: Aprender todas as nuances e caminhos para criação de um Software</h3>
 
+##
 
-# 💻 Tech Stack:
+<p align="center">  ❤ Bem-Vindo ao meu Perfil... </p>
 
+# <h4>💫 About Me:</h4> 
+- Prezados, decidi começar pelo do **front** para aprender as competências inicias (que são muitas) como: GitHub, Git, Htlm, Css e outras; <br/>
+- Entretanto, tenho um fascínio pelo **BackEnd** principalmente pelas criações feitas em **JAVA**; <br/>
+
+# <h4>📚 Academic Education:</h4> 
+- Granduando no Curso Superior em Tecnologia da Informação **(UFMS)**; <br/>
+- Bacharel em Administração e Especialização em Gestão Pública.
+
+##
+
+<h4>💻 Tech Stack:</h4>
 <p align="left">
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
