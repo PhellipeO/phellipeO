@@ -4,7 +4,7 @@
 <p align="center">  ❤ Bem-Vindo ao meu Perfil... </p> 
 
 # <h4>💫 About Me:</h4> 
-- Prezados, decidi começar pelo do **front** para aprender as competências inicias (que são muitas) como: GitHub, Git, Htlm, Css e outras; <br/>
+- Prezados, decidi começar pelo do **front** para aprender as competências inicias (que são muitas) como: GitHub, Git, HTML, CSS e outras; <br/>
 - Entretanto, tenho um fascínio pelo **BackEnd** principalmente pelas criações feitas em **JAVA**; <br/>
 
 # <h4>📚 Academic Education:</h4> 
