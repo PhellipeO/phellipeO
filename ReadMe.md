@@ -1,10 +1,9 @@
 <h1 align="center">Eaaai, me chamo Phellipe!</h1>
 <h3 align="center">🙋‍♂️ Um único objetivo: Aprender todas as nuances e caminhos para criação de um Software</h3>
+<br/>
+<p align="center">  ❤ Bem-Vindo ao meu Perfil... </p> 
 
-##
-
-<p align="center">  ❤ Bem-Vindo ao meu Perfil... </p>
-<h4>💫 About Me:</h4> 
+# <h4>💫 About Me:</h4> 
 - Prezados, decidi começar pelo do **front** para aprender as competências inicias (que são muitas) como: GitHub, Git, Htlm, Css e outras; <br/>
 - Entretanto, tenho um fascínio pelo **BackEnd** principalmente pelas criações feitas em **JAVA**; <br/>
 
