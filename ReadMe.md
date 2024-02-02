@@ -50,14 +50,21 @@
 
 <!--[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg]-->
 
-
 # <h4>📊 GitHub Stats:</hr>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhellipeO&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhellipeO&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
+
+<!-- # <h4>📊 GitHub Stats:</hr>
 ![](https://github-readme-stats.vercel.app/api?username=PhellipeO&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PhellipeO&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PhellipeO&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PhellipeO&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PhellipeO&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg) -->
