@@ -8,7 +8,7 @@
 - Entretanto, tenho um fascínio pelo **BackEnd** principalmente pelas criações feitas em **JAVA**; <br/>
 
 # <h4>📚 Academic Education:</h4> 
-- Granduando no Curso Superior de Tecnologia da Informação **(UFMS)**; <br/>
+- Graduando no Curso Superior de Tecnologia da Informação **(UFMS)**; <br/>
 - Bacharel em Administração e Especialização em Gestão Pública.
 
 ##
