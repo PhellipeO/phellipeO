@@ -66,3 +66,7 @@
 [![](https://visitcount.itsvg.in/api?id=PhellipeO&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,git,github&theme=dark)](https://skillicons.dev)
+ -->
