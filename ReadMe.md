@@ -11,6 +11,14 @@
 - Graduando no Curso Superior de Tecnologia da Informação **(UFMS)**; <br/>
 - Bacharel em Administração e Especialização em Gestão Pública.
 
+
+## 
+<h4>🌐 Socials:</h4>
+
+ <div align="left">
+  <a href="https://www.linkedin.com/in/phellipe-o-a6212ba3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=9370DB"></a>
+ </div>
+
 ##
 
 <h4>💻 Tech Stack:</h4>
