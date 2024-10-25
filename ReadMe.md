@@ -24,7 +24,7 @@
 <h4>💻 Tech Stack:</h4>
 <p align="left">
    
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,git,github&theme=dark)](https://skillicons.dev)
 
 <!--
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
